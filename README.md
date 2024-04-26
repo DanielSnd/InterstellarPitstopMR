@@ -1,5 +1,9 @@
 # InterstellarPitstopMR
 
+## Controls
+All functionality is accessed through a menu in your left hand. Look at your left palm and the menu icon should show up. Pinch the menu icon with your index and thumb finger, hold the pinching pose in place. A radial menu will appear around your hand. Drag your hand towards the option in the menu you want and let go to select it.
+You can grab virtual objects by pinching. Start by placing a pitstop window in your room.
+
 ## Inspiration
 Interstellar Pitstop MR was inspired by cozy-leaning games, such as: Zoo Tycoon, Theme Park World, Slime Rancher, Choo Choo Crossing, and Event Planning In Zero G. It takes its artistic vision from sci-fi and retrofuture cartoons such as The Jetsons. Its core conceit came from thinking deeply about how people's attachment and investment to their existing personal space is affected by MR capabilities.
 
